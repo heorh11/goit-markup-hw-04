@@ -414,6 +414,8 @@ body {
 
 .position {
     text-align: center;
+
+    padding-bottom: 8px;
 }
 
 .costumers {
@@ -512,6 +514,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--white-bg);
     margin-bottom: 16px;
+    margin-top: 0;
 }
 
 .footer-icon-item {
@@ -537,7 +540,7 @@ body {
 
 .footer-link-icon:hover,
 .footer-link-icon:focus {
-    background-color: var(--pressed-state);
+    background-color: var(--succes);
 }
 
 
